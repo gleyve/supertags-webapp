@@ -163,7 +163,7 @@ A interface desse projeto foi implementada a partir de um projeto do [Frontend M
 - 💻 [Jocemar](https://github.com/RadiantJupiter)
 - 💻 [Alan Cezar](https://github.com/alanccezar)
 - 💻 [Joshua Maia](https://github.com/joshuamaia)
-- 👂 [Ricardo Utino](https://github.com/)
+- 👂 [Ricardo Utino](https://github.com/rickutino)
 - 👂 [Alexandre Conte](https://github.com/Alexandreconte)
 - 👂 [Braytiner](https://github.com/braytiner)
 - 👂 [Sidnei Sousa](https://github.com/)
