@@ -160,10 +160,10 @@ A interface desse projeto foi implementada a partir de um projeto do [Frontend M
 
 ## 🧑‍💻 Formação da Equipe
 - 💻 [Gleyve Rafael](https://github.com/gleyve) ⭐
+- 💻 [Jocemar](https://github.com/RadiantJupiter)
 - 💻 [Alan Cezar](https://github.com/alanccezar)
 - 💻 [Joshua Maia](https://github.com/joshuamaia)
-- 💻 [Braytiner](https://github.com/)
+- 👂 [Braytiner](https://github.com/)
 - 👂 [Sidnei Sousa](https://github.com/)
 - 👂 [Alexandre](https://github.com/)
-- 👂 [Jocemar](https://github.com/)
 - 👂 [Ricardo Utino](https://github.com/)
