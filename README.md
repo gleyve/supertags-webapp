@@ -161,9 +161,9 @@ A interface desse projeto foi implementada a partir de um projeto do [Frontend M
 ## 🧑‍💻 Formação da Equipe
 - 💻 [Gleyve Rafael](https://github.com/gleyve) ⭐
 - 💻 [Alan Cezar](https://github.com/alanccezar)
-- 💻 [Sidnei Sousa](https://github.com/)
+- 💻 [Joshua Maia](https://github.com/joshuamaia)
 - 💻 [Braytiner](https://github.com/)
+- 👂 [Sidnei Sousa](https://github.com/)
 - 👂 [Alexandre](https://github.com/)
 - 👂 [Jocemar](https://github.com/)
-- 👂 [Joshua Maia](https://github.com/joshuamaia)
 - 👂 [Ricardo Utino](https://github.com/)
