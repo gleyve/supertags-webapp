@@ -165,5 +165,5 @@ A interface desse projeto foi implementada a partir de um projeto do [Frontend M
 - 💻 [Joshua Maia](https://github.com/joshuamaia)
 - 👂 [Ricardo Utino](https://github.com/)
 - 👂 [Alexandre Conte](https://github.com/)
-- 👂 [Braytiner](https://github.com/)
+- 👂 [Braytiner](https://github.com/braytiner)
 - 👂 [Sidnei Sousa](https://github.com/)
