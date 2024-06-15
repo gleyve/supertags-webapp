@@ -166,4 +166,4 @@ A interface desse projeto foi implementada a partir de um projeto do [Frontend M
 - 👂 [Ricardo Utino](https://github.com/rickutino)
 - 👂 [Alexandre Conte](https://github.com/Alexandreconte)
 - 👂 [Braytiner](https://github.com/braytiner)
-- 👂 [Sidnei Sousa](https://github.com/)
+- 👂 [Sidnei Sousa](https://github.com/sousaautomacao)
