@@ -159,7 +159,7 @@ A interface desse projeto foi implementada a partir de um projeto do [Frontend M
 - [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)](https://www.w3schools.com/js/default.asp)
 
 ## 🧑‍💻 Formação da Equipe
-- 💻 [Gleyve Rafael](https://github.com/) ⭐
+- 💻 [Gleyve Rafael](https://github.com/gleyve) ⭐
 - 💻 [Alan Cezar](https://github.com/alanccezar)
 - 💻 [Sidnei Sousa](https://github.com/)
 - 💻 [Braytiner](https://github.com/)
