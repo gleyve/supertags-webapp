@@ -16,6 +16,8 @@
 
 Este projeto consiste em um desafio entre Equipes da Formação DEV da [Cod3r](https://www.cod3r.com.br) turma **2024**, todos requisitos foram previamente definidos e seguem replicados abaixo como referência para o desenvolvimento da equipe:
 
+[Link dos Requisitos do Projeto no Github](https://github.com/especialistadev/projetos-equipes-1/tree/main/supertags)
+
 ## 🪜 Etapa 1 - Autenticação
 
 ### 📔 Requisitos Funcionais
